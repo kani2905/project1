@@ -1,0 +1,11 @@
+"Second-Year Information Technology Student | Sona College of Technology
+
+Participated in Smart India Hackathon.
+Earned a certificate at a symposium held at Madras Institute of Technology.
+Developed an AI chatbot using the Gemini API as a mini project, focusing on frontend development.
+Proficient in frontend technologies such as HTML, CSS, JavaScript, and Bootstrap (self-learned through YouTube).
+Completed the Java Full Course through YouTube and developed a mini guessing game using JavaScript.
+Successfully completed the NPTEL Design Thinking Primer course.
+Earned a certification for completing the Basics of Python course from Infosys Springboard.
+Completed the Onramp Course in MATLAB with certification.
+Passionate about developing innovative solutions and continuously learning new technologies to enhance my skills."
